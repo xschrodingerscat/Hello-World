@@ -3,4 +3,5 @@ for git testing
 
 # Tutorial
 
-- feature-A
+    - feature-A
+    - fix-C
